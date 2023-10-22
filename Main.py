@@ -1,3 +1,4 @@
+# This code works for web WhatsApp
 import pywhatkit as pk
 import time
 import keyboard
